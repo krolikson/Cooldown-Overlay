@@ -123,3 +123,11 @@ Examples of visible and not visible group:
 
 # Contact
 For suggestions and questions, send a PM to /u/bunkbedlover on Reddit.
+
+
+
+CHANGES::
+
+*Arrow keys nevermore trigger spells assigned into numerical     	key on keyboard.
+*One spell from group do not trigger timer the rest of spells from this same group.
+*Groups /heal/attack/support cooldown tracked on arc's, spells are displayed at right side of tibia client (text and timer)
